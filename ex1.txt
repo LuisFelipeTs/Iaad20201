@@ -1,0 +1,5 @@
+1. Qual a diferença entre Banco de dados e Sistema de gerenciamento de dados ?
+	O SGBD(ou Sistema de Geremnciamento de dados) é um Software que é usado para facilitar 
+o uso e manipulação das informações dos dados , sendo tambem uma coleção de progamas que permite 
+que o usuário criem e mantenham banco de dados, já o banco de dados é um conjunto de dados 
+relacionados entre si que possuem informações.
