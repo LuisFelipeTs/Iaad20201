@@ -1,0 +1,61 @@
+TIPO;REFEICAO;CALORIAS(KCAL);GORDURAS TOTAIS(G);CARBOIDRATOS(G);PROTEINAS(G)
+0;Sanduiche de Pate de Frango, Suco de Laranja;288,00;10,80;43,84;14,98
+0;Torradas, Cafe;293,00;4,00;54,40;9,00
+0;Mamao e Bolacha de Sal com Suco de Abacaxi;472,00;15,37;99,81;10,60
+0;Cereal e Leite;415,00;3,25;4,52;3,22
+0;Leite e Banana com Sanduiche de Presunto e Queijo ;390,00;0,33;22,84;1,09
+0;Maca e Torradas com Suco de Maracuja;422,00;0,17;13,81;0,26
+0;Torrada com Ricota e Suco de Acerola;450,00;8,10;3,80;12,60
+0;Cheeseburguer com Suco de Laranja;359,00;12,85;18,27;11,58
+0;Melancia com Sequilhos Doces e Agua;483,00;0,15;7,55;0,61
+0;Salada de Frutas com Mel e Cafe Expresso;53,00;0,23;96,06;1,00
+0;Sanduiche de Peito de Peru e Queijo de Bufala com Cafe Preto;269,00;2,00;2,00;22,00
+0;Ovo Mexido e Farelo de Aveia;447,00;17,80;20,80;18,75
+0;Tapioca com Queijo e Cafe com Leite;283,00;8,27;44,55;6,30
+0;Fruta com Iogurte e Cereal;128,00;3,30;4,70;3,50
+0;Cookie Integral e Melancia com Shake de Proteina;726,00;1,65;66,35;30,01
+0;Omelete e Suco de Laranja;251,00;12,02;0,69;10,62
+0;Sanduiche de Pate de Atum com Suco de Laranja;266,00;4,57;23,17;12,00
+0;Bacon e Ovos com Torradas e Cafe;1158,00;56,47;2,36;50,60
+0;Waffles de Banana com Mel e Cafe com Leite;618,00;0,33;105,24;1,39
+0;Misto Quente com Abacatada;450,00;15,00;9,00;2,00
+1;Kibe Assado e Abobrinha Italiana;216,00;9,56;19,31;14,33
+1;Peixe Grelhado e Legumes Grelhados;211,00;0,15;13,09;2,86
+1;Frango Grelhado ao Limao Siciliano e Batata Doce Rustica com Alecrim;310,00;3,30;0,80;25,00
+1;Carne Moida e Cogumelos ao toque oriental;308,00;10,90;8,31;26,70
+1;Carne Desfiada e Arroz Integral com Brocolis;425,00;7,40;25,00;24,00
+1;Salmao Grelhado e Arroz de Couve Flor;211,00;2,50;32,20;4,28
+1;Espaguete de Abobrinha e Cenoura e Carne ao Ragu de Tomate;111,00;5,00;7,80;25,00
+1;Strogonoff de Carne e Arroz Integral com Brocolis;767,00;1,00;25,00;4,00
+1;Frango ao Curry e Arroz 7 Cereais;946,00;1,23;60,18;6,50
+1;Frango Grelhado(Lemon Pepper) e Mix de Legumes;435,00;0,15;13,09;2,86
+1;Frango com Shimeji e Arroz Integral a Grega;522,00;4,90;34,50;21,30
+1;Ripa de Costela de Vaca no Churrasco (com Molho);381,00;32,60;3,50;16,99
+1;Salmao Grelhado e Pure de Ervilha;300,00;9,56;5,19;23,97
+1;Kafta com Homus;294,00;14,15;24,05;17,64
+1;Escondidinho de Carne com Batata Doce;130,00;11,00;37,00;20,00
+1;File de Saint Peter com Ratatouille;202,00;10,63;5,58;27,79
+1;Bife Acebolado e Arroz Branco com Feijao Preto;538,00;19,77;52,04;37,36
+1;Lasanha a Bolonhesa;209,00;9,30;15,87;15,46
+1;Fricasse de Frango e Arroz Integral com Salada Verde;261,00;8,82;84,41;21,96
+1;Salada Caesar;225,00;14,17;6,52;5,03
+2;Panqueca de Frango;220,00;11,00;30,00;22,00
+2;Panqueca de Abobrinha com Alho Poro;218,00;7,86;14,61;4,84
+2;Caldo Verde;95,00;2,90;3,53;14,19
+2;Caldo de Aboboras;40,00;0,42;7,01;1,69
+2;Sopa de Legumes com Carne;94,00;0,15;13,09;2,86
+2;Sopa de Galinha;396,00;1,02;3,88;1,68
+2;Macaxeira com Charque;339,00;5,65;22,55;7,55
+2;Inhame com Ovo;188,00;14,83;28,51;15,05
+2;Cuscuz e Cozido de Bode;256,00;3,73;25,30;29,30
+2;Salada de Frutas e Bolacha Agua e Sal com Leite;493,00;32,25;71,18;15,22
+2;Misto Quente e Achocolatado;408,00;21,56;39,44;16,29
+2;Sequilhos Salgados e Cafe com Leite;170,00;2,50;75,00;0,00
+2;Picadinho de File e Arroz Integral com Vagem;544,00;1,11;81,91;8,89
+2;Carne Moida com Macarrao integral e Brocolis;713,00;13,53;82,10;21,26
+2;Macarronada de Abobora e Frango ao Limao;458,00;2,00;71,00;12,00
+2;Sanduiche de Peito de Peru e Ricota e Suco de Laranja;180,00;12,27;29,14;39,12
+2;Batata Doce com Requeijao;430,00;36,42;23,96;4,88
+2;Torradas com Pate de Atum;393,00;15,85;2,82;10,12
+2;Waffles com Geleia;637,00;9,62;117,70;7,67
+2;Croissant Misto e Suco de Laranja;418,00;15,30;78,00;26,00
